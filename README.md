@@ -1,4 +1,4 @@
-### <div align="center">I'm Laura, a front end software engineering student at the Turing School of Software and Design 🤓</div>  
+### <div align="center">I'm Laura, a front end software developer and student at the Turing School of Software and Design 🤓</div>  
   
 
 <div align="center">🌱 I’m currently learning HTML, CSS, and JavaScript</div>  
