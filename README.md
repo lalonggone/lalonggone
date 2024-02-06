@@ -4,7 +4,7 @@
 <div align="center">🌱 I’m currently learning HTML, CSS, and JavaScript</div>  
   
 
-<div align="center">🔭 Right now, I'm working on a recipe tracking / meal prep application! </div>  
+<div align="center">🔭 Right now, I'm working on a mock fitness application! </div>  
   
 
 <div align="center">🦹🏼‍♀️ My superpower would be to locate any lost object</div>  
