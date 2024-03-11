@@ -1,16 +1,16 @@
 # <div align="center">I'm Laura - front end software developer and student 🤓</div>  
   
 
-<div align="center">🌱 I’m currently learning REACT! 🌱</div>  
+### <div align="center">🌱 I’m currently learning REACT! 🌱</div>  
   
 
-<div align="center">🔭 Lookout, I'm making on a UFO-themed memory game 🛸 </div>  
+### <div align="center">🛸 Lookout for my UFO-themed memory game 🛸</div>  
   
 
-<div align="center">🦹🏼‍♀️ My superpower would be to locate any lost object 🪄</div>  
+### <div align="center">🦹🏼‍♀️ My superpower would be to locate any lost object 🪄</div>  
   
 
-<div align="center">⚡ Fun fact: I laugh at my own jokes more than anyone else</div>  
+### <div align="center">⚡ Fun fact: I laugh at my own jokes more than anyone else ⚡️</div>  
   
 
 <br/>  
@@ -35,16 +35,6 @@
 <a href="https://linkedin.com/in/lauralonggone" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/lauralonggone" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/lauralonggone" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/lalonggone" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
 <br/>  
