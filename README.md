@@ -4,7 +4,7 @@
 <div align="center">🌱 I’m currently learning REACT! </div>  
   
 
-<div align="center">🔭 Lookout, I'm making on a UFO-themed memory game right now</div>  
+<div align="center">🔭 Lookout, I'm making on a UFO-themed memory game</div>  
   
 
 <div align="center">🦹🏼‍♀️ My superpower would be to locate any lost object</div>  
