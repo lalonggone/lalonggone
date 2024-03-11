@@ -1,13 +1,13 @@
-### <div align="center">I'm Laura, a front end software developer and student 🤓</div>  
+# <div align="center">I'm Laura - front end software developer and student 🤓</div>  
   
 
-<div align="center">🌱 I’m currently learning REACT! </div>  
+<div align="center">🌱 I’m currently learning REACT! 🌱</div>  
   
 
-<div align="center">🔭 Lookout, I'm making on a UFO-themed memory game</div>  
+<div align="center">🔭 Lookout, I'm making on a UFO-themed memory game 🛸 </div>  
   
 
-<div align="center">🦹🏼‍♀️ My superpower would be to locate any lost object</div>  
+<div align="center">🦹🏼‍♀️ My superpower would be to locate any lost object 🪄</div>  
   
 
 <div align="center">⚡ Fun fact: I laugh at my own jokes more than anyone else</div>  
@@ -74,4 +74,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
