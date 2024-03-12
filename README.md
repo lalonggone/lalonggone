@@ -1,4 +1,4 @@
-# <div align="center">I'm Laura - front end software developer and student 🤓</div>  
+# <div align="center">I'm Laura - front end software eengineer and student 🤓</div>  
   
 
 ### <div align="center">🌱 I’m currently learning REACT! 🌱</div>  
