@@ -1,16 +1,12 @@
-# <div align="center">I'm Laura - front end software engineer and student 🤓</div>  
+# <div align="center">Laura | Front-End Software Engineer</div>  
   
-
-### <div align="center">🌱 I’m currently learning REACT! 🌱</div>  
+### <div align="center">🤿 deep-diving into React development 🤿</div>  
   
+### <div align="center">🥞 excited about full-stack and open-source projects 🥞 </div>  
 
-### <div align="center">🛸 Lookout for a UFO-themed memory game 🛸</div>  
+### <div align="center">🌱 committed to using technology for good 🌱</div> 
   
-
-### <div align="center">🦹🏼‍♀️ My superpower would be to locate any lost object 🪄</div>  
-  
-
-### <div align="center">⚡ Fun fact: I laugh at my own jokes more than anyone else ⚡️</div>  
+### <div align="center">💼 currently building an interface that displays community concerns regarding a development in Moab, Utah 💼 </div>  
 
 <br/><br/><br/>
 
