@@ -6,7 +6,7 @@
 
 ### <div align="center">🌱 committed to using technology for good 🌱</div> 
   
-### <div align="center">💼 currently building an interface that displays community concerns regarding a development in Moab, Utah 💼 </div>  
+### <div align="center">💼 currently building an interface that displays community concerns regarding a development in Moab, Utah💼 </div>  
 
 <br/><br/><br/>
 
