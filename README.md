@@ -10,8 +10,6 @@
 
 <br/><br/><br/>
 
-Sure, here is the updated code with all the links embedded:
-
 ## <div align="center">  My Skill Set  </div>
 <div align="center">  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
