@@ -10,16 +10,47 @@
 
 <br/><br/><br/>
 
+Sure, here is the updated code with all the links embedded:
+
 ## <div align="center">  My Skill Set  </div>
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-</div>  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="50" />
+  </a>  
+  <a href="https://www.javascript.com/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
+  </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="50" />
+  </a>  
+  <a href="https://reactjs.org/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="50" />
+  </a>  
+  <a href="https://vuejs.org/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" height="50" />
+  </a>  
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
+  </a>  
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
+  </a>  
+  <a href="https://sass-lang.com/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" height="50" />
+  </a>  
+  <a href="https://nodejs.org/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
+  </a>  
+  <a href="https://git-scm.com/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="50" />
+  </a>  
+  <a href="https://vitejs.dev/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="ViteJS" height="50" />
+  </a>  
+  <a href="https://webpack.js.org/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="Webpack" height="50" />
+  </a>  
+</div>
 
 <br/><br/><br/>
 
