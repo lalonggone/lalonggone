@@ -1,13 +1,9 @@
 # <div align="center">Laura | Front-End Software Engineer</div>  
-  
-### <div align="center">🤿 deep-diving into Vue.js (loving it) 🤿</div>  
-  
+    
 ### <div align="center">🥞 excited about full-stack and open-source projects 🥞 </div>  
 
 ### <div align="center">🌱 committed to using technology for good 🌱</div> 
   
-### <div align="center">💼 currently building an LLM web app chatbot 💼 </div>  
-
 <br/><br/><br/>
 
 ## <div align="center">  My Skill Set  </div>
