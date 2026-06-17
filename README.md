@@ -1,6 +1,6 @@
 # <div align="center">Laura | Front-End Software Engineer</div>  
+<br/><br/><br/>
 
-    
 ### <div align="center">🥞 excited about full-stack and open-source projects 🥞 </div>  
 
 ### <div align="center">🌱 committed to using technology for good 🌱</div> 
